@@ -4,7 +4,11 @@
       "Bash(git init:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(.venvScriptspip install ipykernel)",
+      "Bash(\"C:\\\\Users\\\\muthu\\\\OneDrive\\\\Desktop\\\\DataCollectionPreprocessing1\\\\.venv\\\\Scripts\\\\pip.exe\" install ipykernel)",
+      "Bash(\"C:\\\\Users\\\\muthu\\\\OneDrive\\\\Desktop\\\\DataCollectionPreprocessing1\\\\.venv\\\\Scripts\\\\python.exe\" -m ipykernel install --user --name=lab01_venv --display-name=\"Python \\(Lab01\\)\")",
+      "Bash(\"C:\\\\Users\\\\muthu\\\\OneDrive\\\\Desktop\\\\DataCollectionPreprocessing1\\\\.venv\\\\Scripts\\\\pip.exe\" install pandas)"
     ]
   }
 }
