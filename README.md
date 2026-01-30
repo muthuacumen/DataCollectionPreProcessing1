@@ -15,9 +15,9 @@ Demonstrate fundamental data collection and preprocessing techniques using Pytho
 
 | File | Description | Records |
 |------|-------------|---------|
-| `Retail_Transactions_Dataset.csv` | Raw e-commerce transactions | 310,000 |
-| `cleaned_transactions.csv` | Cleaned output (CSV) | 310,000 |
-| `cleaned_transactions.json` | Cleaned output (JSON) | 310,000 |
+| `Retail_Transactions_Dataset.csv` | Raw e-commerce transactions | 50,000 |
+| `cleaned_transactions.csv` | Cleaned output (CSV) | 50,000 |
+| `cleaned_transactions.json` | Cleaned output (JSON) | 50,000 |
 
 ### Fields
 
